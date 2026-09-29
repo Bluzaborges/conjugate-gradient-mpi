@@ -1,0 +1,17 @@
+# Build directories
+/build/
+/cmake-build-*/
+
+# Compiled binaries and objects
+*.exe
+*.o
+*.obj
+
+# IDE and editor settings
+/.idea/
+/.vscode/
+*.user
+
+# Operating-system files
+.DS_Store
+Thumbs.db
